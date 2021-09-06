@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mrkimhyo
+- 👀 I’m interested in movie, and semiconductor
+- 🌱 I’m currently learning python 
